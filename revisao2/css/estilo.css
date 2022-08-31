@@ -1,0 +1,11 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+.formulario{
+    background-color: bisque;
+    margin: 30px;
+    padding: 30px;
+}
+input{background-color: aquamarine;}
